@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa9316b4-c15b-4dee-9932-657cfc9acd84" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QFQUNmdU2YauJvWrGhrCnq9I6L" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/junit-4.13.jar!/" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.IntegerCalculusTest.test_divideWithRemainder">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtils" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.codeallthings.math.MathUtils" />
+      <module name="MathUtils" />
+      <option name="PROGRAM_PARAMETERS" value="1 10 2 3 50" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in MathUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerCalculusTest.test_Add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeallthings.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeallthings.math" />
+      <option name="MAIN_CLASS_NAME" value="com.codeallthings.math.IntegerCalculusTest" />
+      <option name="METHOD_NAME" value="test_Add" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerCalculusTest.test_LessOrEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeallthings.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeallthings.math" />
+      <option name="MAIN_CLASS_NAME" value="com.codeallthings.math.IntegerCalculusTest" />
+      <option name="METHOD_NAME" value="test_LessOrEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerCalculusTest.test_divideWithRemainder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeallthings.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeallthings.math" />
+      <option name="MAIN_CLASS_NAME" value="com.codeallthings.math.IntegerCalculusTest" />
+      <option name="METHOD_NAME" value="test_divideWithRemainder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeallthings.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeallthings.math" />
+      <option name="MAIN_CLASS_NAME" value="com.codeallthings.math.MultiplesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MathUtils" />
+      <item itemvalue="JUnit.MultiplesTest" />
+      <item itemvalue="JUnit.All in MathUtils" />
+      <item itemvalue="JUnit.IntegerCalculusTest.test_Add" />
+      <item itemvalue="JUnit.IntegerCalculusTest.test_LessOrEqual" />
+      <item itemvalue="JUnit.IntegerCalculusTest.test_divideWithRemainder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IntegerCalculusTest.test_divideWithRemainder" />
+        <item itemvalue="JUnit.IntegerCalculusTest.test_LessOrEqual" />
+        <item itemvalue="JUnit.IntegerCalculusTest.test_Add" />
+        <item itemvalue="JUnit.All in MathUtils" />
+        <item itemvalue="JUnit.MultiplesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9316b4-c15b-4dee-9932-657cfc9acd84" name="Default Changelist" comment="" />
+      <created>1567363878909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567363878909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codeallthings/math/MathUtils.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
