@@ -72,6 +72,16 @@ public class MultiplesTest {
     }
 
     @Test
+    public void test_IsValidArgs_ZeroAlpha() {
+        Assert.assertEquals("ERROR: Alpha multiplier cannot be 0", Multiples.IsValidArgs(new String[]{"10", "20", "0", "5", "10"}));
+    }
+
+    @Test
+    public void test_IsValidArgs_ZeroBeta() {
+        Assert.assertEquals("ERROR: Beta multiplier cannot be 0", Multiples.IsValidArgs(new String[]{"10", "20", "4", "0", "10"}));
+    }
+
+    @Test
     public void test_IsValidArgs_ExceedLimit() {
         Assert.assertEquals("ERROR: Output number exceed Max output number", Multiples.IsValidArgs(new String[]{"10", "20", "4", "5", "102"}));
     }

@@ -16,12 +16,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QFQUNmdU2YauJvWrGhrCnq9I6L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/junit-4.13.jar!/" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IntegerCalculusTest.test_divideWithRemainder">
+  <component name="RunManager" selected="JUnit.All in MathUtils">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -60,23 +66,6 @@
       <module name="MathUtils" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntegerCalculusTest.test_Add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MathUtils" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codeallthings.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codeallthings.math" />
-      <option name="MAIN_CLASS_NAME" value="com.codeallthings.math.IntegerCalculusTest" />
-      <option name="METHOD_NAME" value="test_Add" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MultiplesTest.test_IsValidArgs_ZeroAlpha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MathUtils" />
       <extension name="coverage">
         <pattern>
@@ -126,7 +115,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.codeallthings.math" />
       <option name="MAIN_CLASS_NAME" value="com.codeallthings.math.MultiplesTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="test_IsValidArgs_ZeroAlpha" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplesTest.test_IsValidArgs_ZeroBeta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeallthings.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeallthings.math" />
+      <option name="MAIN_CLASS_NAME" value="com.codeallthings.math.MultiplesTest" />
+      <option name="METHOD_NAME" value="test_IsValidArgs_ZeroBeta" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,19 +166,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MathUtils" />
-      <item itemvalue="JUnit.MultiplesTest" />
       <item itemvalue="JUnit.All in MathUtils" />
-      <item itemvalue="JUnit.IntegerCalculusTest.test_Add" />
       <item itemvalue="JUnit.IntegerCalculusTest.test_LessOrEqual" />
       <item itemvalue="JUnit.IntegerCalculusTest.test_divideWithRemainder" />
+      <item itemvalue="JUnit.MultiplesTest.test_IsValidArgs_ZeroAlpha" />
+      <item itemvalue="JUnit.MultiplesTest.test_IsValidArgs_ZeroBeta" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in MathUtils" />
+        <item itemvalue="JUnit.MultiplesTest.test_IsValidArgs_ZeroBeta" />
+        <item itemvalue="JUnit.MultiplesTest.test_IsValidArgs_ZeroAlpha" />
         <item itemvalue="JUnit.IntegerCalculusTest.test_divideWithRemainder" />
         <item itemvalue="JUnit.IntegerCalculusTest.test_LessOrEqual" />
-        <item itemvalue="JUnit.IntegerCalculusTest.test_Add" />
-        <item itemvalue="JUnit.All in MathUtils" />
-        <item itemvalue="JUnit.MultiplesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +194,19 @@
       <updated>1567363878909</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

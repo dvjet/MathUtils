@@ -43,6 +43,12 @@ class Multiples extends  MultiplesBase implements IMultiples{
         if (lower_bound > upper_bound)
             return "ERROR: Wrong bound limits";
 
+        // Check multiplies
+        if (Double.parseDouble(args[2]) == 0.0)
+            return "ERROR: Alpha multiplier cannot be 0";
+        if (Double.parseDouble(args[3]) == 0.0)
+            return "ERROR: Beta multiplier cannot be 0";
+
         // Check max output number
         Double output_number = Double.parseDouble(args[4]);
         if (output_number > MAX_OUTPUT_NUMBER)
